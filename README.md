@@ -1,50 +1,42 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+There!+I'm+Nilyr;Code,+Coffee,+Repeat;Always+Learning" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <a href="https://github.com/nilyr">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<div align="center">
-  <h2>🛠 Tech Stack</h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Nilyr;Full+Stack+Developer;Code+Create+Innovate" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,cs&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,vue,html,css" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongo" />
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,idea" />
+  <h3>🛠 Tech Stack</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,cs,react,redux,nextjs&perline=8" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongo,docker,linux,git,vscode,idea&perline=8" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
-  
-  <a href="https://github.com/nilyr">
-    <img src="https://wakatime.com/badge/user/11acd54a-8c9e-44b7-950c-f6f68e4358fb.svg?style=for-the-badge" alt="Total time coded" />
-  </a>
-  <br/><br/>
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=nilyr&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilyr&layout=compact&theme=radical&hide_border=true&langs_count=6" width="400" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=nilyr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilyr&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="langs" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nilyr&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nilyr&theme=tokyonight&hide_border=true&background=00000000" alt="streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nilyr&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h2>🐍 Contributions Snake</h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nilyr/nilyr/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nilyr/nilyr/output/github-contribution-grid-snake.svg" />
@@ -53,5 +45,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nilyr&style=flat-square&color=blue" alt="views" />
+  <a href="https://github.com/nilyr">
+    <img src="https://wakatime.com/badge/user/11acd54a-8c9e-44b7-950c-f6f68e4358fb.svg?style=flat-square" alt="Total time coded" />
+  </a>
 </p>
