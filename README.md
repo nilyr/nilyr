@@ -1,32 +1,39 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Nilyr;Python+Backend+Dev;Code+Create+Innovate" alt="Typing SVG" />
-  
-  <br/>
-
-  <h3>🛠 My Arsenal</h3>
-  <img src="https://skillicons.dev/icons?i=py,django,postgres,mongo,redis&perline=10" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=linux,bash,nginx,docker,git,discord,vscode&perline=10" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=9E42FE&center=true&vCenter=true&width=450&lines=Python+Backend+Developer;Django+%26+Discord+Bots;System+Architecture" alt="Typing SVG" />
 </div>
+
+<p align="center">
+  <a href="https://nilyr.ru">
+    <img src="https://img.shields.io/badge/Website-nilyr.ru-1f2023?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://t.me/nilyr">
+    <img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
 <br/>
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=py,django,postgres,mongo,redis,docker,linux,nginx,bash,git,discord,vscode&perline=12&theme=dark" />
+</div>
+
+<br/><br/>
+
+<div align="center">
   <table border="0">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=nilyr&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=00000000" width="430" />
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=nilyr&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&icon_color=9E42FE&title_color=FE428E&count_private=true" height="200" />
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilyr&layout=compact&theme=radical&hide_border=true&langs_count=4&bg_color=00000000&hide=html,css" width="340" />
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilyr&layout=donut&theme=radical&hide_border=true&bg_color=00000000&hide=html,css,batchfile,shell,powershell&langs_count=5" height="200" />
       </td>
     </tr>
   </table>
+</div>
 
-  <br/>
-
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nilyr&theme=radical&layout=compact&hide_border=true&bg_color=00000000&range=all_time" alt="WakaTime Stats" />
-  
 </div>
 
 <br/>
