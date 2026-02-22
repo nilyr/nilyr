@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9E42FE&center=true&vCenter=true&width=600&lines=Django+%26+Vue.js+Web+Apps;Discord+Bots;Self-taught+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=9E42FE&center=true&vCenter=true&width=600&lines=Nilyr;Django+%26+Vue.js+Web+Apps;Discord+Bots;Self-taught+Developer" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -29,17 +29,16 @@ class Nilyr:
     def __init__(self):
         self.name = "Nilyr"
         self.role = "Python Backend & Web Developer"
-        self.location = "Russia 🇷🇺"
+        self.location = "Russia"
         self.education = "Self-taught (zero courses taken)"
         self.also = "Sports coach & GTO instructor"
 
     def tech_stack(self):
         return {
-            "backend": ["Python", "Django", "DRF", "Celery"],
+            "backend": ["Django", "Disnake", "Celery"],
             "frontend": ["Vue.js", "HTML", "CSS"],
-            "databases": ["PostgreSQL", "MongoDB", "Redis"],
-            "devops": ["Docker", "Nginx", "Linux"],
-            "other": ["Discord.py", "Git", "Bash"],
+            "databases": ["PostgreSQL", "MongoDB", "MySQL"],
+            "devops": ["Docker", "Linux (Ubuntu)", "Git"],
         }
 
     def projects(self):
@@ -55,7 +54,7 @@ class Nilyr:
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,vue,postgres,mongo,redis,docker,linux,nginx,bash,git,discord&perline=12&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=django,py,vue,html,css,postgres,mongo,mysql,docker,linux,git&perline=11&theme=dark" />
 </div>
 
 ---
