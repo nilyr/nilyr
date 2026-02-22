@@ -23,17 +23,17 @@
   <table border="0">
     <tr>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=nilyr&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&icon_color=9E42FE&title_color=FE428E&count_private=true" height="200" />
+        <img src="github-readme-stats-tawny-eta-63.vercel.app/api?username=nilyr&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&icon_color=9E42FE&title_color=FE428E" height="200" />
       </td>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilyr&theme=radical&hide_border=true&bg_color=00000000&langs_count=5&layout=compact" height="200" />
+        <img src="github-readme-stats-tawny-eta-63.vercel.app/api/top-langs/?username=nilyr&theme=radical&hide_border=true&bg_color=00000000&langs_count=5&layout=compact" height="200" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nilyr&theme=radical&layout=compact&hide_border=true&bg_color=00000000&range=all_time&langs_count=4" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats-tawny-eta-63.vercel.app/api/wakatime?username=nilyr&theme=radical&layout=compact&hide_border=true&bg_color=00000000&range=all_time&langs_count=4" alt="WakaTime Stats" />
 </div>
 
 <br/>
